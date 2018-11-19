@@ -1,2 +1,2 @@
-# Files
-A collection of files
+# Words
+A collection of random words

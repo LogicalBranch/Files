@@ -1,2 +1,2 @@
 # Words
-A collection of random words
+Random of collection words a.
